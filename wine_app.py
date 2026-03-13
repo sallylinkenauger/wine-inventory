@@ -1,8 +1,3 @@
-The CSS got cut off when pasting. Try this — paste the entire code in two parts.
-
-**First, delete everything in the GitHub editor, then paste this:**
-
-```python
 import streamlit as st
 import pandas as pd
 import os
@@ -232,4 +227,3 @@ with tab6:
                 st.rerun()
     else:
         st.info("Enter a wine number above to load it for deletion.")
-```
